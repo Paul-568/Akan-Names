@@ -36,3 +36,21 @@ h1{
 	height: 30px
 	font-size:12px;
 }
+#result{
+	text-align: center;
+	color: white;
+}
+.research{
+	text-decoration: underline;
+	color: white;
+}
+.clear{
+	border-radius: 5px;
+	color: white;
+	background-color: white;
+	text-align: center;
+	width: 108px;
+	height: 30px;
+	font-size: 12px;
+	
+}
