@@ -15,14 +15,19 @@ Contact me on ptuleto@gmail.com
 #### Setup Instruction
 
 Open Terminal {Ctrl+Alt+T}
+
 git clone https://github.com/Paul-568/Akan-Names.git
+
 cd Akan-Names
+
 code . or atom . based on the text editor you have.
 
 ##### Technology used
 
 HTML
+
 CSS
+
 JavaScript
 
 ##### BDD
@@ -60,6 +65,7 @@ Some outputs are not as accurate as expected
 ###### License information
 
 MIT License
+
 Copyright @2020 Paul Tuleto
 
 
